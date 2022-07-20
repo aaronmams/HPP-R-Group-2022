@@ -1,0 +1,19 @@
+---
+title: "Lesson2-7-21-2022"
+author: "Aaron Mamula"
+date: "7/20/2022"
+output: html_document
+---
+
+# Outline
+
+1. Recap from Lesson 1: reading external data and writing a first script
+2. RStudio Projects
+3. Libraries and Packages
+4. Data Types & Data Structures
+
+# RStudio Projects
+
+There are many good reasons to organize your work in projects. You can read a more thorough discussion the advantages of organzing work as project [in this Software Carpentry Module](https://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html). I'm not qualified to talk about all the magnificant ways that RStudio Projects will change your lives, I'm only really qualified to discuss why I find them advantageous:
+
+1. Organizing work 
